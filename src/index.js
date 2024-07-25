@@ -106,18 +106,6 @@ class Game extends React.Component {
                 } else{
                     player1 = '1';
                     player2 = '2';
-                    // for(let j=1; j<this.state.player1Name.length; j){
-                    //     if(this.state.player1Name[j]== this.state.player2Name[j]){
-                    //         player1 = this.state.player1Name[j];
-                    //         break;
-                    //     }
-                    // }
-                    // for(let k=2; j<this.state.player1Name.length; j){
-                    //     if(this.state.player1Name[j]== this.state.player2Name[j]){
-                    //         player2 = this.state.player1Name[k];
-                    //         break;
-                    //     }
-                    // }
                 }
             }
         }
